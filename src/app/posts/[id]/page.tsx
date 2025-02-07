@@ -66,7 +66,7 @@ const posts = [
               title:"Book Reviews and Recommendations: Inspiring Reads for Every Taste",
               description: "Book reviews and recommendations connect readers with captivating stories, insightful ideas, and valuable knowledge across genres. Reviews offer a glimpse into a book’s themes, characters, and writing style, helping readers decide if it suits their interests. Whether it’s fiction, non-fiction, fantasy, or self-help, every book offers a unique experience.Personal recommendations bring hidden gems to light, from classic literature to contemporary works. They guide readers to discover books that inspire, entertain, or educate. Curated lists like “must-reads for personal growth” or “thrillers to keep you on edge” cater to diverse preferences.Sharing honest opinions and engaging discussions builds a community of readers who exchange insights and perspectives. Book reviews not only encourage a love for reading but also deepen understanding of the world. Whether for leisure or learning, exploring new books opens doors to endless adventures and opportunities for growth.",
               date:"2024-12-30",
-              image:"../images/books.jpg",
+              image:"../images/book.png",
              },
   
              {
@@ -74,7 +74,7 @@ const posts = [
               title:"AI and Agentic Tools: Empowering Innovation and Productivity",
               description: "Artificial Intelligence (AI) and agentic tools are transforming industries by automating tasks, improving efficiency, and enabling innovative solutions. AI-powered tools, such as chatbots, virtual assistants, and machine learning models, help businesses streamline operations, enhance customer experience, and analyze vast amounts of data for strategic insights.Agentic tools, which are designed to act independently within defined parameters, amplify human capabilities by taking on repetitive or complex tasks. Examples include AI-driven content creation tools, recommendation engines, and predictive analytics systems that adapt to user needs.These technologies empower individuals and organizations to solve problems more effectively and unlock new possibilities. For example, creators use AI tools for generating designs, writing, or video editing, while businesses employ them for forecasting and decision-making.By integrating AI and agentic tools, users can save time, reduce costs, and focus on creativity and innovation, shaping a smarter and more productive future.",
               date:"2024-12-30",
-              image:"../images/agentic.png",
+              image:"../images/ai-agentic.jpg",
              },
   
              {
@@ -82,7 +82,7 @@ const posts = [
               title:"Health and Fitness: A Path to Wellness",
               description: "Health and fitness are essential for a balanced and fulfilling life, focusing on physical, mental, and emotional well-being. Regular exercise, such as walking, yoga, or strength training, improves cardiovascular health, boosts energy levels, and enhances overall physical fitness. Balanced nutrition, including a diet rich in whole foods, vitamins, and minerals, plays a critical role in maintaining a healthy body and mind.Fitness is not just about physical appearance but also about building resilience, reducing stress, and preventing chronic diseases. Activities like meditation and mindfulness foster mental clarity and emotional stability, contributing to a holistic approach to wellness.Consistency and small, achievable goals are key to sustainable health and fitness routines. Whether it’s joining a fitness class, exploring outdoor activities, or adopting healthier eating habits, taking proactive steps improves quality of life. Ultimately, investing in health is investing in happiness and longevity.",
               date:"2024-12-30",
-              image:"../images/fitness.jpg",
+              image:"../images/health.jpg",
              },
   
              {

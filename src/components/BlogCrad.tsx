@@ -1,21 +1,9 @@
 import React from "react";
 import { Card, CardContent, CardTitle } from "../components/ui/card";
-// interface BlogCardProps {
-//     post: {id: string; title: string; description: string; date: string; image: string };
-//     isDarkBackground: boolean 
-// }
-
 interface BlogCardProps {
-    post: {
-      id: string;
-      title: string;
-      description: string;
-      date: string;
-      image: string;
-    };
-    isDarkBackground: boolean;
-  }
-
+    post: {id: string; title: string; description: string; date: string; image: string };
+    isDarkBackground: boolean 
+}
 export default function BlogCard( { post, isDarkBackground}: BlogCardProps) {
     return (
     <Card className={`p-4 ${isDarkBackground ? 'bg-slate-800 text-white' : 'text-slate-800'} rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300`}>
